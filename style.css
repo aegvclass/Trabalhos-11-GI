@@ -1,8 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(151, 99, 99);
-}
+    background: linear-gradient(#524e4e, #0c0c0c);}
 
 div{
     background-color: rgb(175, 156, 156);
